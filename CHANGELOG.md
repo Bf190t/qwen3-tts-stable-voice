@@ -1,5 +1,9 @@
 # 更新记录 / Changelog
 
+## 1.2.1 · 2026-11-17
+
+- `cases.md`：注明开源桌宠 Desktop Companion 0.2.1 已改用千问自带的 Serena 作参考录音。
+
 ## 1.2.0 · 2026-11-16 · 第一次公开 / first public release
 
 - 整理成 GitHub 仓库：中英 README、MIT 许可、Claude Code 插件清单、`install.sh`（Claude Code / Codex）。

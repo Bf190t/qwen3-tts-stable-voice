@@ -4,8 +4,8 @@ description: 让本地 Qwen3-TTS（mlx-audio / MLX，Apple Silicon Mac）朗读�
 license: MIT
 compatibility: Apple Silicon Mac, macOS 14+, Python 3.12, mlx-audio 0.6.5, Qwen3-TTS 0.6B Base 8bit (about 2 GB). transcribe.swift needs macOS 26. Tested with Mandarin Chinese only.
 metadata:
-  version: "1.2.0"
-  updated: "2026-11-16"
+  version: "1.2.1"
+  updated: "2026-11-17"
   author: "Bf190t (idea and workflow)"
   homepage: "https://github.com/Bf190t/qwen3-tts-stable-voice"
 ---

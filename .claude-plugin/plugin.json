@@ -1,6 +1,6 @@
 {
   "name": "stable-tts-voice",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Keep a local Qwen3-TTS (MLX, Apple Silicon) narrator sounding like one person across a long text: measure drift, fix the voice as one reference recording, clone timbre only with the 0.6B Base model, verify every part. Tested with Mandarin Chinese only.",
   "author": {
     "name": "Bf190t",
