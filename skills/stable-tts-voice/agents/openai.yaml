@@ -1,0 +1,6 @@
+interface:
+  display_name: "稳定朗读音色"
+  short_description: "让本地 Qwen3-TTS 朗读整篇都是同一个人的声音：测漂移、定参考录音、只学音色克隆、做试听页、接进 app 并验收。"
+  default_prompt: "用 $stable-tts-voice 看看这个 app 的朗读声音为什么不稳，先量出现状，再给我试听页。"
+policy:
+  allow_implicit_invocation: true

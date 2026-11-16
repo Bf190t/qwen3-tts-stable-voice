@@ -1,0 +1,13 @@
+{
+  "name": "stable-tts-voice",
+  "version": "1.2.0",
+  "description": "Keep a local Qwen3-TTS (MLX, Apple Silicon) narrator sounding like one person across a long text: measure drift, fix the voice as one reference recording, clone timbre only with the 0.6B Base model, verify every part. Tested with Mandarin Chinese only.",
+  "author": {
+    "name": "Bf190t",
+    "url": "https://github.com/Bf190t"
+  },
+  "homepage": "https://github.com/Bf190t/qwen3-tts-stable-voice",
+  "repository": "https://github.com/Bf190t/qwen3-tts-stable-voice",
+  "license": "MIT",
+  "keywords": ["qwen3-tts", "tts", "text-to-speech", "voice-cloning", "voice-consistency", "mlx", "apple-silicon", "chinese"]
+}

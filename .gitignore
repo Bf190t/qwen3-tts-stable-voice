@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+# 实验输出不要提交 / experiment output stays local
+runs/
+cands/
+试听/
+listen/
+voices/
+*.skill

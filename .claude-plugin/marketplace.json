@@ -1,0 +1,27 @@
+{
+  "name": "bf190t-voice",
+  "owner": {
+    "name": "Bf190t",
+    "url": "https://github.com/Bf190t"
+  },
+  "metadata": {
+    "description": "Stable local Qwen3-TTS voices on Apple Silicon (idea and workflow by Bf190t).",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "stable-tts-voice",
+      "source": "./",
+      "description": "Keep a local Qwen3-TTS narrator sounding like one person across a long text. Tested with Mandarin Chinese only.",
+      "version": "1.2.0",
+      "author": {
+        "name": "Bf190t",
+        "url": "https://github.com/Bf190t"
+      },
+      "homepage": "https://github.com/Bf190t/qwen3-tts-stable-voice",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["qwen3-tts", "tts", "voice-cloning", "mlx", "apple-silicon", "chinese"]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+MIT License
+
+Copyright (c) 2026 Bf190t (idea and workflow of stable-tts-voice)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+Third-party notes
+
+- Qwen3-TTS model weights are NOT included. They are licensed by the Qwen team
+  (Alibaba) under Apache-2.0 and are downloaded separately by
+  skills/stable-tts-voice/scripts/get_base_model.py.
+- The demo audio in demo/ was generated with Qwen3-TTS preset speaker
+  "uncle_fu" reading an original test story. No human voice was recorded or cloned.
+- skills/stable-tts-voice/references/desktop-companion/ comes from
+  https://github.com/Bf190t/mac-desktop-companion (MIT, see its own LICENSE file).
